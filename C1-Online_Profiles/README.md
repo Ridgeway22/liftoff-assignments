@@ -13,6 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 https://www.linkedin.com/in/amber-ridgeway-43975519
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[Amber Ridgeway Launchcode.pdf](https://github.com/Ridgeway22/liftoff-assignments/files/8438635/Amber.Ridgeway.Launchcode.pdf)
